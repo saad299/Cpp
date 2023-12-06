@@ -11,3 +11,6 @@ Form.cpp
 
 prod-cal.cpp
 -> Upon successful compiling and execution of the code, it asks 2 numbers as input and gives the product of those two numbers.
+
+class-body.txt
+-> This is just a boilerplate template of class data structure in c++.
