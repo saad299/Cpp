@@ -1,9 +1,8 @@
+
+Title:
 C++ Coding Work
 
-Title
-My C++ Coding Work
-
-Description
+Description:
 This is the C++ coding work that I did for my university class. It contains all the short C++ concepts and topics that I learned.
 
 Form.cpp
