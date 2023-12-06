@@ -1,0 +1,8 @@
+class ClassName {
+     access specifier:
+     Data members;
+
+     member functions() {
+             
+ }
+};
